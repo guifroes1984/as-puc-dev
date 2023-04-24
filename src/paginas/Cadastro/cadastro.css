@@ -1,0 +1,33 @@
+.cadastro {
+    background-color: #F0FFFF;
+}
+
+.flex-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .container-box {
+    background-color:#F0FFFF;
+    height: 100vh;
+  }
+  
+  .content-box {
+    background-color: rgb(243, 235, 235);
+    color: rgb(49, 47, 47);
+    text-align: center;
+    width: 430px;
+    border-radius: 10px;
+  }
+
+  .table {
+    margin-left: 25px;
+  }
+
+  button {
+    width: 250px;
+    height: 30px;
+    margin-bottom: 25px;
+    background-color: white;
+  }
